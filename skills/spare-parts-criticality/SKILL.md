@@ -26,9 +26,9 @@ Trabaja con inventario, equipos servidos, consumos, plazos y criterios de critic
 
 ## Procedimiento
 
-1. Normaliza referencias manteniendo equivalencias aprobadas, unidad de compra y equipos compatibles.
+1. Normaliza referencias manteniendo equivalencias aprobadas, unidad de compra, piezas por envase y equipos compatibles.
 2. Calcula existencias utilizables separando reservas, material dañado y unidades pendientes de recepción.
-3. Relaciona plazo real de suministro, consumo observado e impacto del equipo con los criterios acordados.
+3. Relaciona plazo real de suministro, consumo observado e impacto del equipo con los criterios acordados. Confirma si la cobertura objetivo se exige hoy o al recibir el pedido; muestra ambos escenarios si ese anclaje falta.
 4. Muestra sensibilidad a consumos o plazos inciertos; no conviertas ausencia de averías en ausencia de riesgo.
 5. Prepara prioridades y alternativas aprobadas, dejando la decisión de compra al circuito existente.
 

@@ -1,1 +1,1 @@
-referencia,equipo,unidad,stock_util,reservas,consumo,plazo,impacto,cobertura,propuesta,fuente
+referencia,equipo,unidad,piezas_por_envase,stock_util,reservas,periodo_consumo,consumo,plazo,impacto,cobertura,objetivo,fecha_objetivo,necesidad_calculada,pedido_propuesto,estado,fuente
